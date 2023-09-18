@@ -139,6 +139,7 @@ replay_pid*
 
 ### VisualStudioCode ###
 .vscode/*
+.vscode
 
 # Local History for Visual Studio Code
 .history/
