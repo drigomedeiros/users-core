@@ -13,7 +13,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.fromscratch.users.application.users.ListUsersPage;
 import com.fromscratch.users.domain.authorization.AuthorizationService;
 import com.fromscratch.users.domain.authorization.IAuthorizationRepository;
 import com.fromscratch.users.domain.users.IUserRepository;

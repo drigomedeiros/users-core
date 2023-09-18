@@ -12,11 +12,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.fromscratch.users.domain.authentication.AuthenticationException;
-import com.fromscratch.users.domain.authentication.AuthenticationRequest;
-import com.fromscratch.users.domain.authentication.AuthenticationService;
-import com.fromscratch.users.domain.authentication.IAuthenticationRepository;
-
 @DisplayName("Authentication Service")
 class AuthenticationServiceTest {
 

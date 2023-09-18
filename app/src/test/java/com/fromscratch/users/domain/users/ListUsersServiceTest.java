@@ -10,10 +10,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.fromscratch.users.domain.users.IUserRepository;
-import com.fromscratch.users.domain.users.ListUsersService;
-import com.fromscratch.users.domain.users.User;
-
 @DisplayName("List Users Service")
 class ListUsersServiceTest {
 

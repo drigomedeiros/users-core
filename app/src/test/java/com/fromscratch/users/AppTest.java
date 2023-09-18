@@ -6,7 +6,6 @@ package com.fromscratch.users;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.fromscratch.users.App;
 import com.fromscratch.users.application.authentication.AuthenticationPage;
 
 import static org.assertj.core.api.Assertions.*;

@@ -10,11 +10,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.fromscratch.users.domain.authorization.AuthorizationException;
-import com.fromscratch.users.domain.authorization.AuthorizationRequest;
-import com.fromscratch.users.domain.authorization.AuthorizationService;
-import com.fromscratch.users.domain.authorization.IAuthorizationRepository;
-
 @DisplayName("Authorization Service")
 class AuthorizationServiceTest {
 
