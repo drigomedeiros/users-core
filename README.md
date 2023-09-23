@@ -48,8 +48,8 @@ List Users Service
 ## Other repositories developed on top of this
 
 - [Jakarta MVC Project](https://github.com/drigomedeiros/users-mvc)
-- [Jakarta EE Backend Project]($)
-- [Jakarta MVC Project (Only Frontend)]($)
-- [Springboot MVC Frontend Project]($)
-- [Springboot Backend Project]($)
-- [React Frontend Project]($)
+- [Jakarta EE Backend Project](#) - Future
+- [Jakarta MVC Project (Only Frontend)](#) - Future
+- [Springboot MVC Frontend Project](#) - Future
+- [Springboot Backend Project](#) - Future
+- [React Frontend Project](#) - Future
